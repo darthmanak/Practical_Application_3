@@ -5,7 +5,7 @@ subscribe a term deposit. Here is the link to the dataset.
 
 Below is the table view of the database where I stored the results of the different classifiers we used and their performance:
 
-
+![Screenshot](model_results.png)
 
 As we can see, there is not much difference in terms of the train accuracy and the test accuracy. Almost all of these tests had a score of 0.87 which means 
 that it is pretty accurate. It took Support Vector Machines a lot more time to train the dataset than it did with the others as SVM took 11 seconds whereas 
